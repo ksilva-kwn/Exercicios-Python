@@ -1,0 +1,4 @@
+dia = input ('Insira o dia que voce nasceu: ')
+mes = input ('Insira o mes que voce nasceu: ')
+ano = input ('Insira o ano que voce nasceu: ')
+print ('Voce nasceu no dia' , dia , 'de' , mes , 'de' , ano)
