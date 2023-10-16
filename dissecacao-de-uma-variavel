@@ -2,9 +2,9 @@ a = input ('Digite algo: ')
 
 print('O tipo primitivo desse valor e' , type(a))
 
-print('So tem espacos? {}'.format(a.isspace() ))
+print('So tem espacos? {}'.format (a.isspace() ))
 
-print('E um numero? {}' .format(a.isnumeric() ))
+print('E um numero? {}' .format (a.isnumeric() ))
 
 print('E alfabetico? {}' .format (a.isalpha() ))
 
